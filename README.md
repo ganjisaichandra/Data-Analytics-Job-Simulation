@@ -11,4 +11,6 @@ Collaboration & Reporting: Presented findings through visually engaging reports 
 
 Problem Solving: Tackled data inconsistencies and gaps by applying logical reasoning and statistical methods, resulting in refined datasets that improved the reliability of analysis outcomes.
 
-Outcome: Supported decision-making with robust analytical frameworks and visualizations, ultimately contributing to enhanced operational efficiency and strategic planning.<img width="1920" height="1080" alt="Tableau image 1" src="https://github.com/user-attachments/assets/247af709-7a21-499e-ac72-29279a2849c0" />
+Outcome: Supported decision-making with robust analytical frameworks and visualizations, ultimately contributing to enhanced operational efficiency and strategic planning.
+<img width="1920" height="1021" alt="Tableau image 1" src="https://github.com/user-attachments/assets/43b76746-8723-48ba-8ad4-f8c6aa354d27" />
+
